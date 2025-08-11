@@ -74,7 +74,7 @@ builder.Services.AddDataProtection(options =>
 })
 .SetDefaultKeyLifetime(TimeSpan.Parse(builder.Configuration["DataProtection:KeyLifetime"]))
 .PersistKeysToAzureBlobStorage(
-    builder.Configuration["azure_kv_storage_cs"],
+    builder.Configuration["azure-kv-storage-cs"],
     "dataprotection-keys",
     "keys.xml")
 .SetApplicationName(builder.Configuration["DataProtection:ApplicationName"]);
