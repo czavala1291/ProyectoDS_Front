@@ -1,106 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\",
+  "WorkspaceRootPath": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\services\\interfaces\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\venta.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\venta.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\settings\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\settings\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\repositories\\ventasapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\repositories\\ventasapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\repositories\\productosapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\repositories\\productosapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\repositories\\clienteapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\repositories\\clienteapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\interfaces\\iventasapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\interfaces\\iventasapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\interfaces\\iproductosapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\interfaces\\iproductosapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.infrastructure\\external\\customexceptions\\httpclientcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\customexceptions\\httpclientcustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\clientes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\clientes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\clientes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\proyecto final\\proyectodsfront\\venta.ui\\venta.ui\\pages\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\wwwroot\\js\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\wwwroot\\js\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,309 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IVentaService.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\Interfaces\\IVentaService.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Services\\Interfaces\\IVentaService.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\Interfaces\\IVentaService.cs",
-              "RelativeToolTip": "Venta.ui\\Services\\Interfaces\\IVentaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:23:43.181Z"
+              "DocumentIndex": 8,
+              "Title": "Ventas.js",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\wwwroot\\js\\Ventas.js",
+              "RelativeDocumentMoniker": "Venta.ui\\wwwroot\\js\\Ventas.js",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\wwwroot\\js\\Ventas.js",
+              "RelativeToolTip": "Venta.ui\\wwwroot\\js\\Ventas.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-11T00:49:23.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VentaService.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\VentaService.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Services\\VentaService.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\VentaService.cs",
-              "RelativeToolTip": "Venta.ui\\Services\\VentaService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:21:53.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\appsettings.json",
-              "RelativeDocumentMoniker": "Venta.ui\\appsettings.json",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\appsettings.json",
-              "RelativeToolTip": "Venta.ui\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-11T00:20:26.754Z",
+              "DocumentIndex": 6,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Productos.cshtml",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml",
+              "RelativeToolTip": "Venta.ui\\Pages\\Productos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T00:48:33.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Venta.ui.csproj",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Venta.ui.csproj",
-              "RelativeDocumentMoniker": "Venta.ui\\Venta.ui.csproj",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Venta.ui.csproj",
-              "RelativeToolTip": "Venta.ui\\Venta.ui.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T00:14:19.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\ServiceExtensions.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\ServiceExtensions.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:06:50.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VentasApiRepository.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\VentasApiRepository.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\Repositories\\VentasApiRepository.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\VentasApiRepository.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\Repositories\\VentasApiRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:00:08.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClienteApiRepository.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\ClienteApiRepository.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\Repositories\\ClienteApiRepository.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\ClienteApiRepository.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\Repositories\\ClienteApiRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:00:01.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductosApiRepository.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\ProductosApiRepository.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\Repositories\\ProductosApiRepository.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Repositories\\ProductosApiRepository.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\Repositories\\ProductosApiRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:00:01.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProductosApiRepository.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Interfaces\\IProductosApiRepository.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\Interfaces\\IProductosApiRepository.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Interfaces\\IProductosApiRepository.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\Interfaces\\IProductosApiRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:59:58.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IVentasApiRepository.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Interfaces\\IVentasApiRepository.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\Interfaces\\IVentasApiRepository.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\Interfaces\\IVentasApiRepository.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\Interfaces\\IVentasApiRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:59:57.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HttpClientCustomException.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\CustomExceptions\\HttpClientCustomException.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\CustomExceptions\\HttpClientCustomException.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\External\\CustomExceptions\\HttpClientCustomException.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\External\\CustomExceptions\\HttpClientCustomException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:38:58.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Venta.ui\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T23:51:02.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Venta.ui\\Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-10T23:51:01.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiEndpoints.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\Settings\\ApiEndpoints.cs",
-              "RelativeDocumentMoniker": "Venta.Infrastructure\\Settings\\ApiEndpoints.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.Infrastructure\\Settings\\ApiEndpoints.cs",
-              "RelativeToolTip": "Venta.Infrastructure\\Settings\\ApiEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:41:35.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Error.cshtml.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "Venta.ui\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:37:49.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Index.cshtml",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml",
               "RelativeToolTip": "Venta.ui\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T23:34:10.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Ventas.cshtml",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Ventas.cshtml",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Ventas.cshtml",
-              "RelativeToolTip": "Venta.ui\\Pages\\Ventas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T23:25:27.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Services\\ProductoService.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Services\\ProductoService.cs",
-              "RelativeToolTip": "Venta.ui\\Services\\ProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:21:19.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Ventas.cshtml.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Ventas.cshtml.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Ventas.cshtml.cs",
-              "RelativeToolTip": "Venta.ui\\Pages\\Ventas.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:18:04.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Venta.ui\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:17:35.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Productos.cshtml.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Productos.cshtml.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Productos.cshtml.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Productos.cshtml.cs",
-              "RelativeToolTip": "Venta.ui\\Pages\\Productos.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:14:38.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Program.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Program.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Program.cs",
-              "RelativeToolTip": "Venta.ui\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAEIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T23:06:09.684Z",
+              "WhenOpened": "2025-08-11T00:48:27.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Clientes.cshtml.cs",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Clientes.cshtml.cs",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Clientes.cshtml.cs",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Clientes.cshtml.cs",
-              "RelativeToolTip": "Venta.ui\\Pages\\Clientes.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Ventas.cshtml.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml.cs",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml.cs",
+              "RelativeToolTip": "Venta.ui\\Pages\\Ventas.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T22:26:49.413Z"
+              "WhenOpened": "2025-08-11T00:46:08.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Error.cshtml",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Venta.ui\\Pages\\Error.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T22:24:35.118Z"
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Venta.ui\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:45:59.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 2,
+              "Title": "Productos.cshtml.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml.cs",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Productos.cshtml.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml.cs",
+              "RelativeToolTip": "Venta.ui\\Pages\\Productos.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:45:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cshtml.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml.cs",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Clientes.cshtml.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml.cs",
+              "RelativeToolTip": "Venta.ui\\Pages\\Clientes.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:44:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Clientes.cshtml",
-              "DocumentMoniker": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Clientes.cshtml",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Clientes.cshtml",
-              "ToolTip": "D:\\Proyecto final\\ProyectoDSFront\\Venta.ui\\Venta.ui\\Pages\\Clientes.cshtml",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml",
               "RelativeToolTip": "Venta.ui\\Pages\\Clientes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T22:24:22.762Z"
+              "WhenOpened": "2025-08-11T00:43:36.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Program.cs",
+              "RelativeDocumentMoniker": "Venta.ui\\Program.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Program.cs",
+              "RelativeToolTip": "Venta.ui\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T00:43:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ventas.cshtml",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml",
+              "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml",
+              "RelativeToolTip": "Venta.ui\\Pages\\Ventas.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T00:42:09.576Z",
+              "EditorCaption": ""
             }
           ]
         }

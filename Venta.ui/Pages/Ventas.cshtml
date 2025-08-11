@@ -2,6 +2,8 @@
 @model VentasModel
 @{
     ViewData["Title"] = "Registrar Venta";
+    var nonce = ViewData["nonce"] as string;
+
 }
 
 <h2>Registrar Venta</h2>
@@ -34,16 +36,7 @@
     <button type="submit">Registrar Venta</button>
 </form>
 
-<script>
-    function addProducto() {
-        // Simple JS to add product fields dynamically (for demonstration)
-        var container = document.getElementById('productos-list');
-        var index = container.children.length;
-        var div = document.createElement('div');
-        div.innerHTML = `<label>Producto:</label>
-            <input type="text" name="Productos[${index}].Producto" required />
-            <label>Cantidad:</label>
-            <input type="number" name="Productos[${index}].Cantidad" min="1" required />`;
-        container.appendChild(div);
-    }
-</script>
+@section Scripts
+{
+    <script type="text/javascript" src="~/js/ventas.js" asp-append-version="true" asp-add-nonce nonce="@nonce"></script>
+}

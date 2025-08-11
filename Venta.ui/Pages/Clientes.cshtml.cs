@@ -22,13 +22,14 @@ namespace Venta.ui.Pages
         public string? _accessToken { get; set; }
         public Cliente ClienteConsultado { get; set; } = new Cliente();
 
-        public async Task OnGetAsync()
+        public async Task<IActionResult> OnGetAsync()
         {
+            ViewData["nonce"] = HttpContext.Items["nonce"] ?? string.Empty;
             // This method is intentionally left empty.
             // It can be used to initialize any data needed for the page.
             var authenticateResult = await HttpContext.AuthenticateAsync();
             _accessToken = authenticateResult.Properties.GetTokenValue("access_token");
-
+            return Page();
 
         }
 

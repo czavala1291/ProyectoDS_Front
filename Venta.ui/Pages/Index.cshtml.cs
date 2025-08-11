@@ -19,10 +19,13 @@ namespace Venta.ui.Pages
             _graphServiceClient = graphServiceClient;;
         }
 
-        public async Task OnGet()
+        public async Task<IActionResult> OnGetAsync()
         {
+            ViewData["nonce"] = HttpContext.Items["nonce"] ?? string.Empty;
+
             var user = await _graphServiceClient.Me.GetAsync();
-            ViewData["GraphApiResult"] = user.DisplayName;;
+            ViewData["GraphApiResult"] = user.DisplayName;
+            return Page();
 
         }
     }

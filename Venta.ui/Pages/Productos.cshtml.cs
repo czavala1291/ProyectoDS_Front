@@ -27,11 +27,15 @@ namespace Venta.ui.Pages
         [BindProperty]
         public int IdProductoEliminar { get; set; }
 
-        public async Task OnGetAsync()
+        public async Task<IActionResult> OnGetAsync()
         {
+            ViewData["nonce"] = HttpContext.Items["nonce"] ?? string.Empty;
+
             var authenticateResult = await HttpContext.AuthenticateAsync();
             _accessToken = authenticateResult.Properties.GetTokenValue("access_token");
             listaProductos = await _productoService.ConsultarProductosAsync(string.Empty, _accessToken);
+
+            return Page();
         }
 
         public async Task<IActionResult> OnPostAgregarAsync()

@@ -12,11 +12,14 @@ namespace Venta.ui.Pages
     {
         public List<Producto> Productos { get; set; } = new List<Producto>();
         public string? _accessToken;
-        public async Task OnGetAsync()
+        public async Task<IActionResult> OnGetAsync()
         {
+            ViewData["nonce"] = HttpContext.Items["nonce"] ?? string.Empty;
 
             var authenticateResult = await HttpContext.AuthenticateAsync();
             _accessToken = authenticateResult.Properties.GetTokenValue("access_token");
+
+            return Page();
         }
 
     }
