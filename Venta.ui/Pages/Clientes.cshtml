@@ -1,0 +1,29 @@
+﻿@page
+@model ClientesModel
+@{
+    ViewData["Title"] = "Consulta de Clientes";
+}
+
+<h2>Consulta de Clientes</h2>
+
+<form method="post" asp-page-handler="Consultar">
+    <label for="IdClienteConsulta">ID Cliente:</label>
+    <input type="number" id="IdClienteConsulta" name="IdClienteConsulta" min="1" required />
+    <button type="submit">Consultar</button>
+</form>
+
+@if (Model.ClienteConsultado != null)
+{
+        <h3>Datos del Cliente</h3>
+        <ul>
+            <li><strong>ID:</strong> @Model.ClienteConsultado.IdCliente</li>
+            <li><strong>Nombre:</strong> @Model.ClienteConsultado.Nombre</li>
+            <li><strong>Apellidos:</strong> @Model.ClienteConsultado.Apellidos</li>
+            <li><strong>Dirección Entrega:</strong> @Model.ClienteConsultado.DireccionEntrega</li>
+            <li><strong>Ciudad:</strong> @Model.ClienteConsultado.Ciudad</li>
+        </ul>
+}
+else if (!ViewData.ModelState.IsValid)
+{
+        <p style="color:red;">@ViewData.ModelState.Values.SelectMany(v => v.Errors).FirstOrDefault()?.ErrorMessage</p>
+}

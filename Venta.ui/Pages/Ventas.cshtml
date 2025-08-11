@@ -1,0 +1,49 @@
+﻿@page
+@model VentasModel
+@{
+    ViewData["Title"] = "Registrar Venta";
+}
+
+<h2>Registrar Venta</h2>
+
+<form method="post" asp-page-handler="Registrar">
+    <label>Cliente ID:</label>
+    <input type="number" name="IdCliente" required />
+
+    <h3>Productos</h3>
+    <div id="productos-list">
+        <!-- Render dynamic product inputs here -->
+        @for (int i = 0; i < Model.Productos.Count; i++)
+        {
+            <div>
+                <label>Producto:</label>
+                <input type="text" name="Productos[@i].Producto" value="@Model.Productos[i].IdProducto" required />
+                <label>Cantidad:</label>
+                <input type="number" name="Productos[@i].Cantidad" value="@Model.Productos[i].Nombre" min="1" required />
+            </div>
+        }
+    </div>
+    <button type="button" onclick="addProducto()">Agregar Producto</button>
+
+    <h3>Pago</h3>
+    <label>Monto:</label>
+    <input type="number" name="Pago.Monto" required />
+    <label>Tipo:</label>
+    <input type="text" name="Pago.Tipo" required />
+
+    <button type="submit">Registrar Venta</button>
+</form>
+
+<script>
+    function addProducto() {
+        // Simple JS to add product fields dynamically (for demonstration)
+        var container = document.getElementById('productos-list');
+        var index = container.children.length;
+        var div = document.createElement('div');
+        div.innerHTML = `<label>Producto:</label>
+            <input type="text" name="Productos[${index}].Producto" required />
+            <label>Cantidad:</label>
+            <input type="number" name="Productos[${index}].Cantidad" min="1" required />`;
+        container.appendChild(div);
+    }
+</script>
