@@ -15,7 +15,7 @@ namespace Venta.Infrastructure.External
         {
             services.AddHttpClient("VentaAPI", client =>
             {
-                client.BaseAddress = new Uri(configuration["VentaAPI:BaseUrl"] ?? "https://localhost:5001/");
+                client.BaseAddress = new Uri(configuration["VentaAPI:BaseUrl"] ?? "https://localhost:5157/");
                 client.DefaultRequestHeaders.Add("Accept", "application/json");
             });
 
