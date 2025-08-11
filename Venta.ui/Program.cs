@@ -127,7 +127,6 @@ app.UseStatusCodePagesWithReExecute("/Error", "?errorCode={0}");
 app.UseStaticFiles();
 
 app.UseRouting();
-app.UseSession();
 
 app.Use(async (context, next) =>
 {

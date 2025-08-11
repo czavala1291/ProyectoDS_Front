@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.infrastructure\\external\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95473BC1-27AD-4241-9055-EE64C951D8E2}|Venta.Infrastructure\\Venta.Infrastructure.csproj|solutionrelative:venta.infrastructure\\external\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\clientes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\clientes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\pages\\ventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\pages\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\wwwroot\\js\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\wwwroot\\js\\ventas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|d:\\newhorizons\\clases\\final\\proyectods_front\\venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9B61751-AE7D-4DC3-AB90-8DA730F45AE2}|Venta.ui\\Venta.ui.csproj|solutionrelative:venta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +62,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.Infrastructure\\External\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Venta.Infrastructure\\External\\ServiceExtensions.cs",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.Infrastructure\\External\\ServiceExtensions.cs",
+              "RelativeToolTip": "Venta.Infrastructure\\External\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T01:00:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Venta.ui\\appsettings.Development.json",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\appsettings.Development.json",
+              "RelativeToolTip": "Venta.ui\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T00:58:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\appsettings.json",
+              "RelativeDocumentMoniker": "Venta.ui\\appsettings.json",
+              "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\appsettings.json",
+              "RelativeToolTip": "Venta.ui\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T00:58:01.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Ventas.js",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\wwwroot\\js\\Ventas.js",
               "RelativeDocumentMoniker": "Venta.ui\\wwwroot\\js\\Ventas.js",
@@ -62,12 +117,11 @@
               "RelativeToolTip": "Venta.ui\\wwwroot\\js\\Ventas.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-11T00:49:23.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:49:23.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Productos.cshtml",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Productos.cshtml",
@@ -75,12 +129,11 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Productos.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T00:48:33.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:48:33.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Index.cshtml",
@@ -88,12 +141,11 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T00:48:27.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:48:27.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ventas.cshtml.cs",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml.cs",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml.cs",
@@ -106,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Index.cshtml.cs",
@@ -114,12 +166,11 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:45:59.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:45:59.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Productos.cshtml.cs",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Productos.cshtml.cs",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Productos.cshtml.cs",
@@ -127,25 +178,24 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Productos.cshtml.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwCgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T00:45:53.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:45:53.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Clientes.cshtml.cs",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml.cs",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Clientes.cshtml.cs",
               "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml.cs",
               "RelativeToolTip": "Venta.ui\\Pages\\Clientes.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T00:44:19.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Clientes.cshtml",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Clientes.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Clientes.cshtml",
@@ -153,25 +203,24 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Clientes.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T00:43:36.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:43:36.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Program.cs",
               "RelativeDocumentMoniker": "Venta.ui\\Program.cs",
               "ToolTip": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Program.cs",
               "RelativeToolTip": "Venta.ui\\Program.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T00:43:14.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Ventas.cshtml",
               "DocumentMoniker": "D:\\NewHorizons\\Clases\\Final\\ProyectoDS_Front\\Venta.ui\\Pages\\Ventas.cshtml",
               "RelativeDocumentMoniker": "Venta.ui\\Pages\\Ventas.cshtml",
@@ -179,8 +228,7 @@
               "RelativeToolTip": "Venta.ui\\Pages\\Ventas.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T00:42:09.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T00:42:09.576Z"
             }
           ]
         }
